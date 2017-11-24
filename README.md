@@ -1,5 +1,7 @@
 # AnomalyDetection R package
 
+**Project forked from twitter/AnomalyDetection**
+
 [![Build Status](https://travis-ci.org/twitter/AnomalyDetection.png)](https://travis-ci.org/twitter/AnomalyDetection)
 [![Pending Pull-Requests](http://githubbadges.herokuapp.com/twitter/AnomalyDetection/pulls.svg?style=flat)](https://github.com/twitter/AnomalyDetection/pulls)
 [![Github Issues](http://githubbadges.herokuapp.com/twitter/AnomalyDetection/issues.svg)](https://github.com/twitter/AnomalyDetection/issues)
