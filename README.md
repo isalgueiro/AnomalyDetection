@@ -2,9 +2,9 @@
 
 **Project forked from twitter/AnomalyDetection**
 
-[![Build Status](https://travis-ci.org/twitter/AnomalyDetection.png)](https://travis-ci.org/twitter/AnomalyDetection)
-[![Pending Pull-Requests](http://githubbadges.herokuapp.com/twitter/AnomalyDetection/pulls.svg?style=flat)](https://github.com/twitter/AnomalyDetection/pulls)
-[![Github Issues](http://githubbadges.herokuapp.com/twitter/AnomalyDetection/issues.svg)](https://github.com/twitter/AnomalyDetection/issues)
+[![Build Status](https://travis-ci.org/isalgueiro/AnomalyDetection.png)](https://travis-ci.org/isalgueiro/AnomalyDetection)
+[![Pending Pull-Requests](http://githubbadges.herokuapp.com/twitter/AnomalyDetection/pulls.svg?style=flat)](https://github.com/isalgueiro/AnomalyDetection/pulls)
+[![Github Issues](http://githubbadges.herokuapp.com/isalgueiro/AnomalyDetection/issues.svg)](https://github.com/isalgueiro/AnomalyDetection/issues)
 
 AnomalyDetection is an open-source R package to detect anomalies which is
 robust, from a statistical standpoint, in the presence of seasonality and an
